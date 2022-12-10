@@ -3,9 +3,10 @@
 
 .messageView{
     display: flex;
+    flex-grow: 1;
     flex-direction: column;
     background-color: #0A1014;
-    width: 1400px;
+    width: 69vw;
     font-family: "Inter", sans-serif;
     border-left: 1px solid #344249;
 }
@@ -87,7 +88,7 @@
     border: none;
     resize: none;
     outline: none;
-    width: 1000px;
+    width: 90vh;
     border-radius: 10px;
     color: white;
 }

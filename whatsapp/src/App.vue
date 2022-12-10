@@ -86,8 +86,10 @@ export default {
 
 #app {
   display: flex;
-  zoom: 90%;
+  height: 100vh;
+  width: 100vw;
 }
+
 
 ::-webkit-scrollbar {
   width: 10px;

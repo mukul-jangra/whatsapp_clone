@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 .sideBar {
-    width: 500px;
+    width: 31vw;
     font-family: 'Inter', sans-serif;
     background-color: #111B21;
 }
@@ -114,7 +114,7 @@
 }
 
 .sideBar__body {
-    height: 700px;
+    /* height: 90vh; */
     Overflow-y: scroll;
 }
 
