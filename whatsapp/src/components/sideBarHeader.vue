@@ -14,7 +14,7 @@
         <div class="sideBar__search">
             <div class="sideBar__searchArea">
                 <font-awesome-icon class="sideBar__searchIcon" icon="fa-solid fa-magnifying-glass" />
-                <input type="text" placeholder="Aratın veya bir konuşma başlatın">
+                <input type="text" placeholder="Search or start a new chat">
             </div>
             <div class="sideBar_searchFilter">
                 <font-awesome-icon class="sideBar__searchIcon" icon="fa-solid fa-bars" />
@@ -24,7 +24,7 @@
             <div class="sideBar__archiveIcons">
                 <font-awesome-icon class="sideBar__archiveIcon" icon="fa-solid fa-arrow-down" />
             </div>
-            <span>Arşivlenmiş</span>
+            <span>Archived</span>
         </div>
     </div>
 </template>
@@ -36,5 +36,5 @@ export default {
 </script>
 
 <style>
-@import '../assets/css/sideBar.css';
+@import '@/assets/css/sideBar.css';
 </style>

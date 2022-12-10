@@ -30,7 +30,7 @@
           <font-awesome-icon class="messageView__footerIcon" icon="fa-solid fa-paperclip" />
         </div>
         <div class="messageView__input">
-          <input type="text" v-on:keyup.enter="sendMessage" placeholder="Bir mesaj yazın" v-model="contentSend">
+          <input type="text" v-on:keyup.enter="sendMessage" placeholder="Type a message" v-model="contentSend">
         </div>
         <font-awesome-icon class="messageView__footerIcon" icon="fa-solid fa-microphone" />
       </div>
@@ -81,12 +81,12 @@ export default {
 
 
 <style>
-@import 'assets/css/sideBar.css';
-@import 'assets/css/messageView.css';
+@import '@/assets/css/sideBar.css';
+@import '@/assets/css/messageView.css';
 
 #app {
   display: flex;
-  padding: 10px 150px;
+  zoom: 90%;
 }
 
 ::-webkit-scrollbar {

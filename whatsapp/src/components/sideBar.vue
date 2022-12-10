@@ -25,8 +25,8 @@ export default {
 </script>
 
 <style>
-@import '../assets/css/sideBar.css';
-@import '../assets/css/spans.css';
+@import '@/assets/css/sideBar.css';
+@import '@/assets/css/spans.css';
 </style>
 
 <!-- <div class="sideBar__item" v-bind:class="{active: activeMessage}">

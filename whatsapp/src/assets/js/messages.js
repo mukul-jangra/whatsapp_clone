@@ -1,7 +1,7 @@
 const messagesIndexes = [
     {
-        "user": "Stefan Salvatore",
-        "image": "https://i.pinimg.com/564x/df/b8/34/dfb83449cf1735288b5fe44f502738aa.jpg",
+        "user": "Mukul Jangra",
+        "image": "https://randomuser.me/api/portraits/lego/8.jpg",
         "messages": [
             {
                 "time": "12:15",
@@ -10,7 +10,7 @@ const messagesIndexes = [
             },
             {
                 "time": "12:17",
-                "content": "Hey Stefan, what is it?",
+                "content": "Hey Mukul, what is it?",
                 "send": true
             },
             {
@@ -26,12 +26,12 @@ const messagesIndexes = [
         ]
     },
     {
-        "user": "Elena Gilbert",
-        "image": "https://qph.cf2.quoracdn.net/main-qimg-d6e1e187f8783e3b9fad076788d63796-lq",
+        "user": "Sameer Salmani",
+        "image": "https://randomuser.me/api/portraits/lego/9.jpg",
         "messages": [
             {
                 "time": "23:48",
-                "content": "Hey Darius are you coming concert tomorrow night?",
+                "content": "Hey Fellow are you coming concert tomorrow night?",
                 "send": false
             },
             {
@@ -42,12 +42,12 @@ const messagesIndexes = [
         ]
     },
     {
-        "user": "Matt Donovan",
-        "image": "https://d1bntizjlw65va.cloudfront.net/3a93ae80eeae3f414a1261629aab7bf490d99fee.jpg",
+        "user": "Himasnhu Chauhan",
+        "image": "https://randomuser.me/api/portraits/lego/8.jpg",
         "messages": [
             {
                 "time": "17:12",
-                "content": "Darius can you send me photo of your homework?",
+                "content": "Buddy can you send me photo of your homework?",
                 "send": false
             },
             {

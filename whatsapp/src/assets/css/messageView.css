@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: column;
     background-color: #0A1014;
-    width: 1500px;
+    width: 1400px;
     font-family: "Inter", sans-serif;
     border-left: 1px solid #344249;
 }
@@ -78,7 +78,7 @@
 }
 
 .messageView__input{
-    
+   margin: 0 20px;
 }
 
 .messageView__input input{
